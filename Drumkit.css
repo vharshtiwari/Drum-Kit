@@ -1,0 +1,98 @@
+
+ .bg {
+ 	max-height: 100%;
+	width: 100%;
+ 	position: fixed;
+ 	left: 0px;
+ 	top: 0px;
+ }
+.Alphabet{
+	width: 70px;
+	height: 70px;
+	border-style: solid;
+	border-color: black;
+	border-width: 5px;
+	border-radius: 2px;
+	font-family: "Roboto";
+	font-size: 20px;
+	transition: all 0.07s;
+
+}
+#head{
+	font-size: 47px;
+	color: orange;
+	padding-left: 625px;
+	padding-top: 5px;
+	position: absolute;
+	font-family: sans-serif;
+}
+#bottom{
+	font-size: 30px;
+	color: orange;
+	left: 500px;
+	top: 700px;
+	position: absolute;
+	font-family: sans-serif;
+}
+.playing{
+	transform: scale(1.6);
+	border-color: orange;
+}
+.text{
+	
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding-top: 7px;
+}
+.text1{
+	font-size: 15px;
+	color: orange;
+	text-align: center;
+	padding-top: 8px;
+}
+ #a{
+ 	position: absolute;
+ 	left: 250px;
+ 	top: 325px;
+ 	z-index: 1;
+ }
+
+ #s{
+ 	position: absolute;
+ 	left: 375px;
+ 	top: 325px;
+ }
+
+#d{
+ 	position: absolute;
+ 	left: 500px;
+ 	top: 325px;
+ }
+ #f{
+ 	position: absolute;
+ 	left: 625px;
+ 	top: 325px;
+ }
+
+ #g{
+ 	position: absolute;
+ 	left: 750px;
+ 	top: 325px;
+ }
+ 
+ #h{
+ 	position: absolute;
+ 	left: 875px;
+ 	top: 325px;
+ }
+ #j{
+ 	position: absolute;
+ 	left: 1000px;
+ 	top: 325px;
+ }
+ #k{
+ 	position: absolute;
+ 	left: 1125px;
+ 	top: 325px;
+ }
